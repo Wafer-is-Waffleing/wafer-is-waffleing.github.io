@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+
+# Explicitly set CSS and HTML files as text
+*.css text
+*.html text
