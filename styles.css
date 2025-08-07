@@ -5,6 +5,7 @@ body {
     padding: 0;
     background-image: url('mtnimage.png');
     background-position: center;
+    background-size:auto;
     
 }
  header {
