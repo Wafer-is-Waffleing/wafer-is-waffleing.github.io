@@ -11,7 +11,7 @@ body {
 }
  header {
     height: 100vh;
-    background: url('images/Mount_Everest.png') center/contain;
+    background: url('Mount_Everest.png') center/contain;
     padding: 20px;
     font-family: Arial, sans-serif;
     text-align: center;
