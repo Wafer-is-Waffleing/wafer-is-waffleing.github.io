@@ -6,8 +6,8 @@ body {
     background-image: url('mtnimage.png');
     background-position: center;
     background-size:auto;
-    background-position-y: center;
-    padding: 40px; /*Adds space inside the body
+    background-position-y:  -500px;
+    
 }
  header {
     
@@ -19,5 +19,5 @@ body {
 h1 {
     color: #ebebeb;
     text-align: center;
-    margin-top: 40px;
+    margin-top: 500px;
 }
