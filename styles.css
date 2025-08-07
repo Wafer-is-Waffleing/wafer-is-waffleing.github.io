@@ -1,19 +1,21 @@
+:root {
+    --bg-color: #0c0c0c;
+}
 body {
-    background-color: #0c0c0c;
+    background-color:  var(--bg-color);
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url('Mount_Everest.png');
-    background-position: center;
-    background-size:auto;
-    background-position-y: center;
+
     
 }
  header {
-    
+    height: 100vh;
+    background: url('images/Mount_Everest.png') center/contain;
     padding: 20px;
     font-family: Arial, sans-serif;
     text-align: center;
+    position: relative;
     
  }    
 h1 {
