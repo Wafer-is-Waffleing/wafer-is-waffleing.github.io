@@ -20,6 +20,7 @@ h1 {
     color: #ebebeb;
     text-align: center;
     margin-top: 40px;
+    animation: fadeIn 2s ease-in;
 }
 .header-content::before {
             content: '';
